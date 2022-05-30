@@ -2,7 +2,7 @@ import socket, threading, thread, select, signal, sys, time, getopt
 
 # CONFIG
 LISTENING_ADDR = '0.0.0.0'
-LISTENING_PORT = 8080
+LISTENING_PORT = 8280
 
 PASS = ''
 
